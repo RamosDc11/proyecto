@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(180, 210, 13, 1) 0%,
+    rgba(16, 213, 65, 1) 36%,
+    rgba(4, 241, 82, 1) 91%
+  );
+}
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+  color: #1042d5;
+  position: relative;
+  text-align: center;
+}
+.contenedor {
+  position: relative;
+  text-align: center;
+  color: black;
+  border-radius: 20px;
+}
+
+a {
+  color: #f1948a;
+}
